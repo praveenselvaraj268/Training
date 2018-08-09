@@ -17,4 +17,10 @@ git reset is used to undo the commit.
 
 worked on git and installed tortoise git
 
+<<<<<<< HEAD
 second change
+=======
+second change
+
+second branck pushed to branch
+>>>>>>> branch1
